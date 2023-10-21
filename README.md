@@ -1,6 +1,6 @@
 # __💎 DaxConverter__
 
-# __📡 Download__
+# __📡 Download (.exe)__
 
 ### 🔴 Mega : https://mega.nz/file/KdA2DQSC#I-M65yH22FIU2sZMH7XMOAzKjYGHXdroBV02o1Am9nw 
 ### 🔵 VirusTotal : https://www.virustotal.com/gui/file/37c4798ad8bdfd5b6e95f8bdf9e5719b47bd69441f1e87c1a3ce762ddf7270ed?nocache=1
